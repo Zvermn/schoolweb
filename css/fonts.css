@@ -1,0 +1,27 @@
+@font-face {
+    font-family: gilroy;
+    src: url(/css/fonts/Gilroy/gilroy-regular.ttf);
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: gilroy;
+    src: url(/css/fonts/Gilroy/gilroy-black.ttf);
+    font-style: normal;
+    font-weight:900;
+}
+
+@font-face {
+    font-family: opensans;
+    src: url(/css/fonts/OpenSans/opensans.woff2);
+    font-style: normal;
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: opensans;
+    src: url(/css/fonts/OpenSans/opensansitalic.woff2);
+    font-style: italic;
+    font-weight: 400;
+}
